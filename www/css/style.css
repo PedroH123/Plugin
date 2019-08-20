@@ -1,0 +1,32 @@
+/**/
+
+h1{
+  font-family:fantasy;
+  text-align: center;
+  color:black;
+  border-style:double;
+  border-width: 50px;
+  border-color: rgb(73, 1, 73);
+}
+
+button{
+ color:black;
+   font-family: fantasy;
+   width: 60%;
+   height: 40%;
+   margin-left: 20%;
+   background-color: red;
+   border-radius: 50px;
+   border-color: black;
+   margin-bottom: 10%;
+}
+
+
+
+main{
+  background-color:darkorchid;
+}
+
+body{
+  background-color: black;
+}
